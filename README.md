@@ -1,24 +1,18 @@
-E aí, pessoal! 👋
+Relatório do Laboratório: Introdução ao Portal do Azure
 
-Estou mergulhando de cabeça no mundo da computação em nuvem com o Microsoft Azure. ☁️🚀
+Data: 24/10/2024
 
-Criei este README para compartilhar o que estou aprendendo sobre essa plataforma incrível e como ela pode me ajudar a turbinar meus estudos e minha carreira.
+Resumo:
 
-O que você vai encontrar aqui:
+Neste laboratório, fomos introduzidos ao Microsoft Azure e sua interface principal, o Portal do Azure. A professora iniciou a aula demonstrando a tela inicial e seus principais componentes, com foco na personalização e nos recursos básicos que auxiliam na navegação e gerenciamento da plataforma.
 
-**Tela inicial do Azure:** Um guia básico sobre o Portal do Azure, com os principais recursos e como navegar por ele.
-**Azure para aprendizado:** Dicas de como usar o Azure para aprender e experimentar com diferentes tecnologias, incluindo personalização do portal e recursos gratuitos.
-**Importância do Azure para a carreira:** Motivos pelos quais dominar o Azure é essencial para quem quer se destacar no mercado de trabalho.
-**Links úteis:** Uma lista de recursos que estou usando para aprender mais sobre o Azure, como a documentação oficial, o Microsoft Learn e comunidades online.
-Meus objetivos com o Azure:
+Pontos abordados:
 
-Dominar os principais serviços do Azure, como máquinas virtuais, bancos de dados e serviços de IA.
-Desenvolver projetos práticos usando o Azure para aplicar meus conhecimentos e construir um portfólio.
-Obter certificações do Azure para validar minhas habilidades e aumentar minhas chances no mercado de trabalho.
-Conectar-me com outros estudantes e profissionais da área de nuvem para trocar ideias e aprender com suas experiências.
+Tela inicial: A professora apresentou a organização da tela inicial, destacando o painel personalizável, que exibe informações importantes sobre os recursos utilizados, como status e alertas.
+Menu de navegação: Exploramos o menu, que permite acesso rápido aos serviços do Azure, organizados por categorias como computação, armazenamento, redes e inteligência artificial.
+Barra de pesquisa: Aprendemos como utilizar a barra de pesquisa para encontrar rapidamente recursos específicos dentro do portal, agilizando a navegação.
+Cloud Shell: Fomos apresentados ao Cloud Shell, um terminal de linha de comando integrado ao portal, que permite gerenciar os recursos do Azure via comandos. A professora demonstrou alguns comandos básicos e sua utilidade na automação de tarefas.
+Personalização: Vimos como personalizar o painel com widgets, adicionando os recursos mais relevantes para nosso uso, como máquinas virtuais, bancos de dados e serviços de IA.
+Observações:
 
-Links que estou achando úteis:
-
-Portal do Microsoft Azure
-O que é Azure: Serviços em Nuvem da Microsoft
-Serviços de computação em nuvem | Microsoft Azure
+Foi comentado sobre a importância de explorar o Portal do Azure e seus recursos para  aprofundar o conhecimento na plataforma.  O laboratório  nos proporcionou uma visão geral da interface e  ferramentas essenciais para o uso do Azure, despertando o interesse em  explorar  as  inúmeras  possibilidades  que a  plataforma oferece.
